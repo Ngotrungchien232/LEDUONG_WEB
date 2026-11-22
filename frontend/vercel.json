@@ -3,7 +3,7 @@
   "rewrites": [
     {
       "source": "/api/:path*",
-      "destination": "https://YOUR_RENDER_BACKEND_URL/api/:path*"
+      "destination": "https://legiaduong-demo-web-fsbqetb0eza6d8ez.japaneast-01.azurewebsites.net/api/:path*"
     }
   ]
 }
